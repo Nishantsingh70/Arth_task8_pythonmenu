@@ -62,7 +62,7 @@ while True:
 
     elif ch == 9:
          img_name = input("Enter image name :")
-         os.system("sudp docker rmi {}".format(img_name))
+         os.system("sudo docker rmi {}".format(img_name))
          print()
                
     elif ch == 10:
