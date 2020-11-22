@@ -9,7 +9,7 @@ while True:
     os.system("tput setaf 7")
     print("""
                                                     Press 1. To see date
-                                                    Press 2. To see calander
+                                                    Press 2. To see calendar
                                                     Press 3. To run calculator
                                                     Press 4. Create User
                                                     Press 5. Create Directory
