@@ -9,4 +9,4 @@ Task Description📄
 ⚠️ NOTE: It is a compulsory TEAM task.
 
 
-LinkedIn Blog URL: https://www.linkedin.com/posts/nishant-singh-276104185_pythonprogramming-vimaldaga-righteducation-activity-6736233987095769088-OLr2
+LinkedIn Blog URL: https://www.linkedin.com/posts/singh--nishant_pythonprogramming-vimaldaga-righteducation-activity-6736233987095769088-iZo0?utm_source=share&utm_medium=member_desktop
